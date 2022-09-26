@@ -1,0 +1,289 @@
+[
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede32"
+    },
+    "id": 1,
+    "Title": "Avatar",
+    "Year": "2009",
+    "Released": "18 Dec 2009",
+    "Genre": "Action, Adventure, Fantasy",
+    "Plot": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "Language": "English, Spanish",
+    "Country": "USA, UK",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Avatar_%282009_film%29_poster.jpg/220px-Avatar_%282009_film%29_poster.jpg",
+    "imdbID": "tt0499549",
+    "Type": "movie",
+    "path": "https://youtu.be/5PSNL1qE6VY"
+  },
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede33"
+    },
+    "id": 2,
+
+    "Title": "I Am Legend",
+    "Year": "2007",
+    "Released": "14 Dec 2007",
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Plot": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
+    "Language": "English",
+    "Country": "USA",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/I_am_legend_teaser.jpg/220px-I_am_legend_teaser.jpg",
+    "imdbID": "tt0480249",
+    "Type": "movie",
+    "path": "https://youtu.be/dtKMEAXyPkg"
+  },
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede34"
+    },
+    "id": 3,
+
+    "Title": "300",
+    "Year": "2006",
+    "Released": "09 Mar 2007",
+    "Genre": "Action, Drama, Fantasy",
+    "Plot": "King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.",
+    "Language": "English",
+    "Country": "USA",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/300poster.jpg/220px-300poster.jpg",
+    "imdbID": "tt0416449",
+    "Type": "movie",
+    "path": "https://youtu.be/UrIbxk7idYA"
+  },
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede35"
+    },
+    "id": 4,
+
+    "Title": "The Avengers",
+    "Year": "2012",
+    "Released": "04 May 2012",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "Language": "English, Russian",
+    "Country": "USA",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg",
+    "imdbID": "tt0848228",
+    "Type": "movie",
+    "path": "https://youtu.be/eOrNdBpGMv8"
+  },
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede36"
+    },
+    "id": 5,
+
+    "Title": "The Wolf of Wall Street",
+    "Year": "2013",
+    "Released": "25 Dec 2013",
+    "Genre": "Biography, Comedy, Crime",
+    "Plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/d/d8/The_Wolf_of_Wall_Street_%282013%29.png",
+    "imdbID": "tt0993846",
+    "Type": "movie",
+    "path": "https://youtu.be/iszwuX1AK6A"
+  },
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede37"
+    },
+    "id": 6,
+
+    "Title": "Interstellar",
+    "Year": "2014",
+    "Released": "07 Nov 2014",
+    "Genre": "Adventure, Drama, Sci-Fi",
+    "Plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "Language": "English",
+    "Country": "USA, UK",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+    "imdbID": "tt0816692",
+    "Type": "movie",
+    "path": "https://youtu.be/zSWdZVtXT7E"
+  },
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede38"
+    },
+    "id": 7,
+
+    "Title": "Game of Thrones",
+    "Year": "2011–",
+    "Released": "17 Apr 2011",
+    "Genre": "Adventure, Drama, Fantasy",
+    "Plot": "While a civil war brews between several noble families in Westeros, the children of the former rulers of the land attempt to rise up to power. Meanwhile a forgotten race, bent on destruction, plans to return after thousands of years in the North.",
+    "Language": "English",
+    "Country": "USA, UK",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg",
+    "imdbID": "tt0944947",
+    "Type": "series",
+    "path": "https://youtu.be/KPLWWIOCOOQ"
+  },
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede39"
+    },
+    "id": 8,
+
+    "Title": "Vikings",
+    "Year": "2013–",
+    "Released": "03 Mar 2013",
+    "Genre": "Action, Drama, History",
+    "Plot": "The world of the Vikings is brought to life through the journey of Ragnar Lothbrok, the first Viking to emerge from Norse legend and onto the pages of history - a man on the edge of myth.",
+    "Language": "English, Old English, Norse, Old, Latin",
+    "Country": "Ireland, Canada",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Vikings_Title.png/250px-Vikings_Title.png",
+    "imdbID": "tt2306299",
+    "Type": "series",
+    "path": "https://youtu.be/9GgxinPwAGc"
+  },
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede3a"
+    },
+    "id": 9,
+
+    "Title": "Gotham",
+    "Year": "2014–",
+    "Released": "01 Aug 2014",
+    "Genre": "Action, Crime, Drama",
+    "Plot": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+    "Language": "English",
+    "Country": "USA",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Gotham_Logo.jpg/250px-Gotham_Logo.jpg",
+    "imdbID": "tt3749900",
+    "Type": "series",
+    "path": "https://youtu.be/VwOPA2upeCA"
+  },
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede3b"
+    },
+    "id": 10,
+
+    "Title": "Power",
+    "Year": "2014–",
+    "Released": "N/A",
+    "Genre": "Crime, Drama",
+    "Plot": "James \"Ghost\" St. Patrick, a wealthy New York night club owner who has it all, catering for the city's elite and dreaming big, lives a double life as a drug kingpin.",
+    "Language": "English",
+    "Country": "USA",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Power_Opening_Title.jpg/250px-Power_Opening_Title.jpg",
+    "imdbID": "tt3281796",
+    "Type": "series",
+    "path": "https://youtu.be/g9PBhyTHhRE"
+  },
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede3c"
+    },
+    "id": 11,
+
+    "Title": "Narcos",
+    "Year": "2015–",
+    "Released": "28 Aug 2015",
+    "Genre": "Biography, Crime, Drama",
+    "Plot": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Narcos_title_card.jpg/250px-Narcos_title_card.jpg",
+    "imdbID": "tt2707408",
+    "Type": "series",
+    "path": "https://youtu.be/xl8zdCY-abw"
+  },
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede3d"
+    },
+    "id": 12,
+
+    "Title": "Breaking Bad",
+    "Year": "2008–2013",
+    "Released": "20 Jan 2008",
+    "Genre": "Crime, Drama, Thriller",
+    "Plot": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's financial future.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Breaking_Bad_logo.svg/250px-Breaking_Bad_logo.svg.png",
+    "imdbID": "tt0903747",
+    "Type": "series",
+    "path": "https://youtu.be/HhesaQXLuRY"
+  },
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede3e"
+    },
+    "id": 13,
+
+    "Title": "Doctor Strange",
+    "Year": "2016",
+    "Released": "04 Nov 2016",
+    "Genre": "Action, Adventure, Fantasy",
+    "Plot": "After his career is destroyed, a brilliant but arrogant and conceited surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+    "Language": "English",
+    "Country": "USA",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/Doctor_Strange_%282016_film%29_poster.jpg",
+    "imdbID": "tt1211837",
+    "Type": "movie",
+    "path": "https://youtu.be/Lt-U_t2pUHI"
+  },
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede3f"
+    },
+    "id": 14,
+
+    "Title": "Rogue One: A Star Wars Story",
+    "Year": "2016",
+    "Released": "16 Dec 2016",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Plot": "The Rebellion makes a risky move to steal the plans to the Death Star, setting up the epic saga to follow.",
+    "Language": "English",
+    "Country": "USA",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Rogue_One%2C_A_Star_Wars_Story_poster.png/220px-Rogue_One%2C_A_Star_Wars_Story_poster.png",
+    "imdbID": "tt3748528",
+    "Type": "movie",
+    "path": "https://youtu.be/frdj1zb9sMY"
+  },
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede40"
+    },
+    "id": 15,
+
+    "Title": "Assassin's Creed",
+    "Year": "2016",
+    "Released": "21 Dec 2016",
+    "Genre": "Action, Adventure, Fantasy",
+    "Plot": "When Callum Lynch explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin, he discovers he is a descendant of the secret Assassins society.",
+    "Language": "English",
+    "Country": "UK, France, USA, Hong Kong",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Assassin%27s_Creed_Logo.svg/250px-Assassin%27s_Creed_Logo.svg.png",
+    "imdbID": "tt2094766",
+    "Type": "movie",
+    "path": "https://youtu.be/4haJD6W136c"
+  },
+  {
+    "_id": {
+      "$oid": "63302574113c624642cede41"
+    },
+    "id": 16,
+
+    "Title": "Luke Cage",
+    "Year": "2016–",
+    "Released": "30 Sep 2016",
+    "Genre": "Action, Crime, Drama",
+    "Plot": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
+    "Language": "English",
+    "Country": "USA",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Luke_Cage_%28TV_series%29_logo.png/250px-Luke_Cage_%28TV_series%29_logo.png",
+    "imdbID": "tt3322314",
+    "Type": "series",
+    "path": "https://youtu.be/ORa4hPhGrpo"
+  }
+]
